@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #EAF6F6;
+
+
+}
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: -50px auto 0px auto;
+font-family: 'Parisienne', cursive;
+background-color: #EAF6F6;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+h3 {
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+/*  padding-top: 100px;*/
+}
+.middle-container{
+
+}
+
+.bottom-container{
+  color: red;
+background-color: #66BFBF;
+width: 1700px;
+height: 240px;
+float: right;
+}
+.Pro {
+  line-height: 2;
+  font-weight: normal;
+  background-color: #EAF6F6;
+  font-size: 40px;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #fa153f;
+
+}
+#heading1 {
+position: relative;
+right: 50px;
+top: 90px;
+padding-bottom: 20px;
+}
+.G {
+  font-size: 35px;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #fa153f;
+
+}
+.Omar {
+  background-color: #EAF6F6;
+}
+.cloud1 {
+  background-color: #EAF6F6;
+  position: relative;
+  left:300px;
+  right:200px;
+}
+.cloud2 {
+  background-color: #EAF6F6;
+  position: relative;
+  bottom: 260px;
+}
+.My_Photo {
+padding-top: 50px;
+}
+.Iam {
+  background-color: #EAF6F6;
+  position: relative;
+  top: 100px;
+ font-size: 17px;
+}
+hr {
+border-style:none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 20px;
+width: 9%;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  text-height:2;
+}
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  TEXT-height:3;
+}
+.games {
+
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.footer-link {
+  color:red;
+}
+.Contact_me {
+	-moz-box-shadow:inset -17px 1px 13px -34px #f29c93;
+	-webkit-box-shadow:inset -17px 1px 13px -34px #f29c93;
+	box-shadow:inset -17px 1px 13px -34px #f29c93;
+	background-color:#184d47;
+	-webkit-border-radius:12px;
+	-moz-border-radius:12px;
+	border-radius:12px;
+	border:6px solid  #EAF6F6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:5px 27px;
+	text-decoration:none;
+	text-shadow:0px 2px 9px #b23e35;
+}
+.Contact_me:hover {
+	background-color:#e79c2a;
+}
+.Contact_me:active {
+	position:relative;
+	top:1px;
+}
